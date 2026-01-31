@@ -18,3 +18,11 @@ Os dados foram coletados de forma manual e analisados por meio de regras lógica
 
 ## Status
 Projeto em desenvolvimento.
+
+## Conclusão
+A aplicação das regras lógicas permitiu identificar padrões simples de produtividade, demonstrando como a lógica proposicional pode ser utilizada para análise de dados do cotidiano.
+
+## Próximos Passos
+- Permitir entrada de dados pelo usuário
+- Aumentar o conjunto de dados
+- Gerar visualizações gráficas
